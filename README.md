@@ -17,7 +17,7 @@
 
 ### ✨ Little Animation Just for Fun
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=elazizfulldev&theme=github)
+[![@debba 2023 - sample](https://raw.githubusercontent.com/debba/gh-contributions-tetris-gif-maker/main/sample/tetris_debba_2023.gif)](https://www.github.com/debba)
 
 ### 📈 GitHub Stats
 
