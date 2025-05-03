@@ -15,9 +15,6 @@
 
 ---
 
-### ✨ Little Animation Just for Fun
-
-[![@debba 2023 - sample](https://raw.githubusercontent.com/debba/gh-contributions-tetris-gif-maker/main/sample/tetris_debba_2023.gif)](https://www.github.com/debba)
 
 ### 📈 GitHub Stats
 
