@@ -7,6 +7,31 @@
 
 ---
 
+<style>
+  .funny-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: 4px solid #ff6b6b;
+    box-shadow: 0 10px 30px rgba(255,107,107,0.3);
+    overflow: hidden;
+    background: #fff;
+  }
+  
+  .funny-container:hover {
+    transform: scale(1.02);
+    transition: 0.3s;
+  }
+
+  .caption {
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive;
+    color: #ff6b6b;
+    margin-top: 10px;
+    font-size: 1.5em;
+  }
+</style>
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
@@ -25,9 +50,15 @@
 
 ### ✨ Little Animation Just for Fun
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
+<div class="funny-container">
+  <p align="center">
+    <img src="https://media.giphy.com/media/Lp5wuqMOmLUa6AnbGc/giphy.gif" 
+         width="100%" 
+         style="border-radius: 15px;"
+         alt="Crazy dancing robot animation">
+  </p>
+  <p class="caption">When the code finally works! 🤖💃</p>
+</div>
 
 ---
 
