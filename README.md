@@ -17,13 +17,7 @@
 
 ### ✨ Little Animation Just for Fun
 
-<h2 align="center"> 
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEwHiY/giphy.gif" width="40"> 
-  YourNameHere 
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEwHiY/giphy.gif" width="40">
-</h2>
-
----
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=elazizfulldev&theme=github)
 
 ### 📈 GitHub Stats
 
