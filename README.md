@@ -1,4 +1,11 @@
-### 🚀 My Tech Stack
+# Hi, I'm Mohammed Amine
+
+I'm a **Full-Stack Developer & Data Analyst** passionate about building modern web apps and automating data workflows.  
+I enjoy working with **JavaScript, React, Next.js, PHP, Laravel, Python, and Data Analytics tools**.  
+
+---
+
+### My Skills
 
 **Frontend:**  
 <p>
@@ -25,3 +32,20 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-ff69b4?logo=beautifulsoup&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-000000?logo=requests&logoColor=white" />
 </p>
+
+---
+
+### Projects
+
+- **Data Scraper**  
+  *Tech:* Python + Requests + BeautifulSoup + Pandas  
+  Scrapes web data and organizes it into clean datasets for analysis.
+
+- **Portfolio Website**  
+  *Tech:* React + TailwindCSS + Next.js  
+  A modern personal portfolio to showcase my projects and skills.
+
+---
+
+### Fun Fact
+I love combining **web development** with **data analytics** to create intelligent, automated solutions.
