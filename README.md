@@ -37,11 +37,11 @@ I enjoy working with **JavaScript, React, Next.js, PHP, Laravel, Python, and Dat
 
 ### Projects
 
-- **Data Scraper**  
+### Data Scraper
   *Tech:* Python + Requests + BeautifulSoup + Pandas  
   Scrapes web data and organizes it into clean datasets for analysis.
 
-- **Portfolio Website**  
+### Portfolio Website
   *Tech:* React + TailwindCSS + Next.js  
   A modern personal portfolio to showcase my projects and skills.
 
