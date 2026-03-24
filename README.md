@@ -1,4 +1,3 @@
-
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
@@ -11,6 +10,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-ff69b4?logo=beautifulsoup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-000000?logo=requests&logoColor=white" />
 </p>
-
----
